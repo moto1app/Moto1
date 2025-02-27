@@ -11,7 +11,7 @@ By accessing or using Moto1, you agree to these Terms and Conditions. If you do 
 Moto1 is provided for personal, non-commercial use. You may not use the application for any illegal or unauthorized purpose. You agree to comply with all applicable laws and regulations.
 
 ## 3. In-App Purchase - Moto1 Premium:
-Moto1 offers an in-app purchase named Development Support, which is of Non-Consumable type. The purchase is managed by the Apple App Store, and you agree to abide by Apple's terms of service regarding in-app purchases. Moto1 Premium unlocks 2025 MotoGP Premium Content for a lifetime.
+Moto1 offers an in-app purchase named Premium, which is of Non-Consumable type. The purchase is managed by the Apple App Store, and you agree to abide by Apple's terms of service regarding in-app purchases. Moto1 Premium unlocks 2025 MotoGP Premium Content for a lifetime.
 
 ## 4. Intellectual Property:
 The content, features, and functionality of Moto1 are owned by Moto1 App Developer and are protected by international copyright, trademark, patent, trade secret, and other intellectual property or proprietary rights laws.
